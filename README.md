@@ -19,4 +19,4 @@ The calculator will output an "Invalid Input" message if the user has submitted 
 
 ## Author
 
-* **Thomas Taylor*
+* **Thomas Taylor**
